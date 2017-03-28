@@ -1,0 +1,1 @@
+dossier contenant différents fichiers/dossiers où sont regroupés des scripts, ici symfony
